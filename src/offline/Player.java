@@ -5,15 +5,28 @@ import java.util.Objects;
 
 public class Player {
 
-    private char name;
+    private String name;
     private ArrayList<Card> cards;
+    private ArrayList<Card> deck;
+    private ArrayList<Card> hand;
+    private ArrayList<Card> discard;
 
-    public Player (char name){
+
+    public Player (String name){
         this.name = name;
         cards = new ArrayList<>();
     }
 
     public void addCard(int n, String name){
+        if (n > 1 && name.charAt(name.length()-1) == 's'){
+            name = name.substring(0,name.length()-1);
+        }
+        for (int i = 0; i < n; i++) {
+            cards.add(new Card(name));
+        }
+    }
+
+    public void addCardTo(int n, String name){
         if (n > 1 && name.charAt(name.length()-1) == 's'){
             name = name.substring(0,name.length()-1);
         }
@@ -32,7 +45,7 @@ public class Player {
         }
     }
 
-    public char getName() {
+    public String getName() {
         return name;
     }
 

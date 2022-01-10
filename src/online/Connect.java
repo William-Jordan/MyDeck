@@ -1,8 +1,6 @@
 package online;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -26,5 +24,28 @@ public class Connect {
         //login
         WebElement log = driver.findElement(By.xpath("/html/body/div[2]/div/div/div[2]/form/input[3]"));
         log.click();
+
+        //-------------------- _ --------------------
+
+        //looks for default home or game console
+        wait.until(ExpectedConditions.or(ExpectedConditions.visibilityOfElementLocated(By.xpath("html/body/div[2]/div/div/ul/li[1]/button")),
+                ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div[1]/div/div"))));
+        //tries to auto join bot game
+        try {
+            WebElement match = driver.findElement(By.xpath("html/body/div[2]/div/div/ul/li[1]/button"));
+            match.click();
+            WebElement oneBot = driver.findElement(By.xpath("html/body/div[2]/div/div/div[1]/div/div/table/tbody/tr/td[1]/div/botmatch/div/fieldset/div[2]/button[1]"));
+            oneBot.click();
+        } catch (NoSuchElementException ignored){}
+
+        //use getPageSource for image scraping and loading.
+        //System.out.println(driver.getPageSource());
+
+        //print out game log
+        for (int i = 0; i < 500; i++) {
+            wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div["+(i+2)+"]/div/div")));
+            WebElement line = driver.findElement(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div["+(i+2)+"]/div/div"));
+            System.out.println("line " + (i+1) + ": " + line.getText());
+        }
     }
 }
