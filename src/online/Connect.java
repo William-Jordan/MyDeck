@@ -1,5 +1,6 @@
 package online;
 
+import offline.Main;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -7,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Connect {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", ".\\libraries\\C96\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", ".\\libraries\\C97\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         WebDriverWait wait = new WebDriverWait(driver, 180);
 
@@ -30,6 +31,7 @@ public class Connect {
         //looks for default home or game console
         wait.until(ExpectedConditions.or(ExpectedConditions.visibilityOfElementLocated(By.xpath("html/body/div[2]/div/div/ul/li[1]/button")),
                 ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div[1]/div/div"))));
+
         //tries to auto join bot game
         try {
             WebElement match = driver.findElement(By.xpath("html/body/div[2]/div/div/ul/li[1]/button"));
@@ -42,10 +44,15 @@ public class Connect {
         //System.out.println(driver.getPageSource());
 
         //print out game log
-        for (int i = 0; i < 500; i++) {
+        Main m = new Main();
+        for (int i = 0; i < 10000; i++) {
             wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div["+(i+2)+"]/div/div")));
             WebElement line = driver.findElement(By.xpath("/html/body/div[2]/div/div/div[6]/div[1]/div/div["+(i+2)+"]/div/div"));
             System.out.println("line " + (i+1) + ": " + line.getText());
+
+            if (line.getText().length() > 0)
+                m.readLine(line.getText());
+            m.printPlayers();
         }
     }
 }

@@ -1,0 +1,783 @@
+Game #93076162, unrated.
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+W starts with a Goat.
+W starts with 6 Coppers.
+W starts with a Hovel, a Necropolis and an Overgrown Estate.
+j starts with a Goat.
+j starts with 6 Coppers.
+j starts with a Hovel, a Necropolis and an Overgrown Estate.
+W shuffles their deck.
+W draws 2 Coppers, a Necropolis, an Overgrown Estate and a Goat.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - William123
+W plays a Necropolis.
+W gets +2 Actions.
+W plays 2 Coppers. (+$2)
+W plays a Goat. (+$1)
+W trashes an Overgrown Estate.
+W draws a Copper.
+W plays a Copper. (+$1)
+W buys a Wedding.
+W gains a Gold.
+W gets 1 VP.
+W shuffles their deck.
+W draws 4 Coppers and a Hovel.
+
+Turn 1 - jkb
+j plays 4 Coppers. (+$4)
+j plays a Goat. (+$1)
+j buys a Forum.
+j gets +1 Buy.
+j gains a Forum.
+j draws 5 cards.
+
+Turn 2 - William123
+W plays 4 Coppers. (+$4)
+W repays 3 debt.
+W draws 2 Coppers, a Gold, a Necropolis and a Goat.
+
+Turn 2 - jkb
+j plays 2 Coppers. (+$2)
+j buys and gains a Page.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - William123
+W plays 2 Coppers and a Gold. (+$5)
+W plays a Goat. (+$1)
+W trashes a Necropolis.
+W buys and gains a Gold.
+W shuffles their deck.
+W draws 3 Coppers, a Gold and a Goat.
+
+Turn 3 - jkb
+j plays a Page.
+j draws a card.
+j gets +1 Action.
+j plays a Forum.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and an Overgrown Estate.
+j plays 3 Coppers. (+$3)
+j plays a Goat. (+$1)
+j trashes a Hovel.
+j buys and gains a Storeroom.
+j returns a Page.
+j receives a Treasure Hunter.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 4 - William123
+W plays a Gold. (+$3)
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 2 Coppers. (+$2)
+W buys and gains a Nobles.
+W draws 3 Coppers, a Gold and a Hovel.
+
+Turn 4 - jkb
+j plays a Forum.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and a Copper.
+j plays a Treasure Hunter.
+j gets +1 Action.
+j gets +$1.
+j gains a Silver.
+j plays a Storeroom.
+j gets +1 Buy.
+j discards 2 other cards and a Copper.
+j draws 3 cards.
+j discards a Copper.
+j gets +$1.
+j plays a Goat. (+$1)
+j trashes an Overgrown Estate.
+j draws a card.
+j plays a Copper. (+$1)
+j buys and gains 2 Pages.
+j returns a Treasure Hunter.
+j receives a Warrior.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - William123
+W plays 3 Coppers and a Gold. (+$6)
+W buys a Nobles.
+W trashes a Hovel.
+W gains a Nobles.
+W shuffles their deck.
+W draws 2 Coppers, a Gold and 2 Nobles.
+
+Turn 5 - jkb
+j plays a Page.
+j draws a card.
+j gets +1 Action.
+j plays 3 Coppers. (+$3)
+j plays a Goat. (+$1)
+j trashes a Necropolis.
+j buys and gains a Village.
+j returns a Page.
+j receives a Treasure Hunter.
+j draws 5 cards.
+
+Turn 6 - William123
+W plays a Nobles.
+W gets +2 Actions.
+W plays a Nobles.
+W draws a Copper, a Gold and a Goat.
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 2 Coppers and 2 Golds. (+$8)
+W buys a Scouting Party.
+W gets +1 Buy.
+W looks at 2 Coppers.
+W discards 2 Coppers.
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys and gains a Page.
+W shuffles their deck.
+W draws 2 Coppers, 2 Golds and a Nobles.
+
+Turn 6 - jkb
+j plays a Forum.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and a Storeroom.
+j plays a Page.
+j shuffles their deck.
+j draws a card.
+j gets +1 Action.
+j plays a Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Storeroom.
+j gets +1 Buy.
+j discards a card and a Copper.
+j draws 2 cards.
+j discards a Copper.
+j gets +$1.
+j plays a Treasure Hunter.
+j gets +1 Action.
+j gets +$1.
+j gains 2 Silvers.
+j plays a Warrior.
+j draws 2 cards.
+W discards a Page, a Copper and a Forum.
+j plays a Silver. (+$2)
+j plays a Goat. (+$1)
+j plays a Copper. (+$1)
+j buys and gains a Nobles.
+j returns a Warrior.
+j receives a Hero.
+j returns a Treasure Hunter.
+j receives a Warrior.
+j returns a Page.
+j receives a Treasure Hunter.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 7 - William123
+W plays a Nobles.
+W draws a Copper, a Nobles and a Goat.
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 2 Coppers and 2 Golds. (+$8)
+W buys and gains a King's Court.
+W shuffles their deck.
+W draws 2 Coppers, a Gold, a Nobles and a Forum.
+
+Turn 7 - jkb
+j plays a Treasure Hunter.
+j gets +1 Action.
+j gets +$1.
+j gains a Silver.
+j plays a Storeroom.
+j gets +1 Buy.
+j discards 2 other cards and a Copper.
+j draws 3 cards.
+j discards a card and a Forum.
+j gets +$2.
+j plays a Silver. (+$2)
+j buys and gains a Village.
+j buys and gains a Pixie.
+j returns a Treasure Hunter.
+j receives a Warrior.
+j draws 5 cards.
+
+Turn 8 - William123
+W plays a Forum.
+W draws a Copper, a Nobles and a King's Court.
+W gets +1 Action.
+W discards 2 Coppers.
+W plays a Nobles.
+W gets +2 Actions.
+W plays a King's Court.
+W plays a Nobles.
+W draws a Gold, a Page and a Goat.
+W plays a Nobles again.
+W shuffles their deck.
+W draws 2 Coppers.
+W plays a Nobles a third time.
+W gets +2 Actions.
+W plays a Page.
+W gets +1 Action.
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 2 Coppers and 2 Golds. (+$8)
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys and gains a Storeroom.
+W returns a Page.
+W receives a Treasure Hunter.
+W shuffles their deck.
+W draws a Copper, a Gold, a Nobles, a Storeroom and a Goat.
+
+Turn 8 - jkb
+j plays a Nobles.
+j draws 3 cards.
+j plays 2 Silvers. (+$4)
+j plays a Goat. (+$1)
+j trashes a Copper.
+j plays a Copper. (+$1)
+j buys and gains a Nobles.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 9 - William123
+W plays a Nobles.
+W gets +2 Actions.
+W plays a Storeroom.
+W gets +1 Buy.
+W discards a Copper, a Gold and a Goat.
+W draws a Copper, a Gold and a Nobles.
+W discards a Copper.
+W gets +$1.
+W plays a Nobles.
+W draws a King's Court and 2 Forums.
+W plays a Gold. (+$3)
+W buys and gains a Village.
+W shuffles their deck.
+W draws 2 Nobles, a Storeroom, a Treasure Hunter and a Forum.
+
+Turn 9 - jkb
+j plays a Nobles.
+j gets +2 Actions.
+j plays a Forum.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and a Copper.
+j plays a Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Hero.
+j gets +$2.
+j gains a Platinum.
+j plays 2 Silvers. (+$4)
+j plays a Goat. (+$1)
+j buys and gains a King's Court.
+j returns a Hero.
+j receives a Champion.
+j draws 5 cards.
+
+Turn 10 - William123
+W plays a Treasure Hunter.
+W gets +1 Action.
+W gets +$1.
+W gains 2 Silvers.
+W plays a Nobles.
+W gets +2 Actions.
+W plays a Forum.
+W draws a Gold, a Village and a King's Court.
+W gets +1 Action.
+W discards a Gold and a Storeroom.
+W plays a Village.
+W draws a Forum.
+W gets +2 Actions.
+W plays a King's Court.
+W plays a Nobles.
+W draws 2 Coppers and a Goat.
+W plays a Nobles again.
+W shuffles their deck.
+W draws a Silver and 2 Golds.
+W plays a Nobles a third time.
+W draws a Silver and a Storeroom.
+W plays a Storeroom.
+W gets +1 Buy.
+W discards a Forum.
+W gets +$1.
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 2 Silvers, a Copper and 2 Golds. (+$11)
+W buys and gains 2 King's Courts.
+W returns a Treasure Hunter.
+W receives a Warrior.
+W shuffles their deck.
+W draws 2 Golds, a Nobles, a Warrior and a Forum.
+
+Turn 10 - jkb
+j plays a Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Nobles.
+j draws 3 cards.
+j plays a Pixie.
+j draws a card.
+j gets +1 Action.
+j takes The Field's Gift.
+j trashes a Pixie.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j plays a Warrior.
+j shuffles their deck.
+j draws 2 cards.
+W discards a Copper.
+j plays a Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Champion.
+j gets +1 Action.
+j plays a Warrior.
+j gets +1 Action.
+j draws 2 cards.
+W discards a Storeroom.
+W trashes a Storeroom.
+W discards a Forum.
+j plays a Forum.
+j gets +1 Action.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and a Copper.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Storeroom.
+j gets +1 Action.
+j gets +1 Buy.
+j discards 5 other cards and a Goat.
+j shuffles their deck.
+j draws 6 cards.
+j discards a card and a Copper.
+j gets +$2.
+j plays 3 Silvers and a Platinum. (+$11)
+j plays a Goat. (+$1)
+j trashes a Copper.
+j buys and gains a Nobles.
+j buys and gains a King's Court.
+j returns a Warrior.
+j receives a Hero.
+j discards The Field's Gift.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 11 - William123
+W plays a Nobles.
+W gets +2 Actions.
+W plays a Warrior.
+W draws a King's Court and a Goat.
+W plays a Forum.
+W draws a Silver and 2 King's Courts.
+W gets +1 Action.
+W discards 2 King's Courts.
+W plays a King's Court.
+W plays a Goat. (+$1)
+W trashes a Silver.
+W plays 2 Golds. (+$6)
+W buys and gains a Nobles.
+W returns a Warrior.
+W receives a Hero.
+W shuffles their deck.
+W draws a Silver, a Village, a Nobles and 2 King's Courts.
+
+Turn 11 - jkb
+j plays a King's Court.
+j gets +1 Action.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles again.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles a third time.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Village.
+j gets +1 Action.
+j draws a card.
+j gets +2 Actions.
+j plays a Village.
+j gets +1 Action.
+j draws a card.
+j gets +2 Actions.
+j plays a Hero.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Storeroom.
+j gets +1 Action.
+j gets +1 Buy.
+j discards 8 other cards and a Goat.
+j shuffles their deck.
+j draws 9 cards.
+j discards 3 other cards and a Goat.
+j gets +$4.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a King's Court.
+j gets +1 Action.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles again.
+j gets +1 Action.
+j shuffles their deck.
+j draws 3 cards.
+j plays a Nobles a third time.
+j gets +1 Action.
+j draws a card.
+j plays a Warrior.
+j gets +1 Action.
+W discards a King's Court and a Forum.
+j plays 4 Silvers and 2 Platina. (+$18)
+j plays a Goat. (+$1)
+j trashes a Copper.
+j plays 3 Coppers. (+$3)
+j buys and gains a Nobles.
+j buys and gains a Storeroom.
+j returns a Warrior.
+j receives a Hero.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 12 - William123
+W plays a Village.
+W draws a Gold.
+W gets +2 Actions.
+W plays a King's Court.
+W plays a King's Court.
+W plays a Nobles.
+W draws a Gold, a Nobles and a Hero.
+W plays a Nobles again.
+W draws a Copper, a Forum and a Goat.
+W plays a Nobles a third time.
+W shuffles their deck.
+W draws a Nobles, a King's Court and a Forum.
+W plays a King's Court again.
+W plays a King's Court.
+W plays a Nobles.
+W plays a Nobles again.
+W plays a Nobles a third time.
+W plays a King's Court again.
+W plays a Nobles.
+W gets +2 Actions.
+W plays a Nobles again.
+W gets +2 Actions.
+W plays a Nobles a third time.
+W gets +2 Actions.
+W plays a King's Court a third time.
+W plays a Hero.
+W gets +$2.
+W gains a Platinum.
+W plays a Hero again.
+W gets +$2.
+W gains a Platinum.
+W plays a Hero a third time.
+W gets +$2.
+W gains a Platinum.
+W plays a King's Court a third time.
+W plays a Forum.
+W shuffles their deck.
+W draws 3 Platina.
+W gets +1 Action.
+W discards a Silver and a Forum.
+W plays a Forum again.
+W shuffles their deck.
+W draws a Silver and a Forum.
+W gets +1 Action.
+W discards a Copper and a Forum.
+W plays a Forum a third time.
+W shuffles their deck.
+W draws a Copper and a Forum.
+W gets +1 Action.
+W discards a Silver and a Forum.
+W plays a Goat. (+$1)
+W trashes a Copper.
+W plays 3 Platina and 2 Golds. (+$21)
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys a Forum.
+W gets +1 Buy.
+W gains a Forum.
+W buys and gains a Storeroom.
+W returns a Hero.
+W receives a Champion.
+W shuffles their deck.
+W draws a Gold, 2 Platina, a Storeroom and a Champion.
+
+Turn 12 - jkb
+j plays a King's Court.
+j gets +1 Action.
+j plays a Hero.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Hero again.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Hero a third time.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Silver, a Copper and a Platinum. (+$8)
+j buys and gains a Colony.
+j draws 5 cards.
+
+Turn 13 - William123
+W plays a Champion.
+W gets +1 Action.
+W plays a Storeroom.
+W gets +1 Action.
+W gets +1 Buy.
+W discards a Gold and 2 Platina.
+W draws a Nobles and 2 Forums.
+W plays a Forum.
+W gets +1 Action.
+W draws a Gold, a Nobles and a King's Court.
+W gets +1 Action.
+W discards a Gold and a Forum.
+W plays a King's Court.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W draws a Silver, a King's Court and a Goat.
+W plays a Nobles again.
+W gets +1 Action.
+W draws a King's Court, a Platinum and a Forum.
+W plays a Nobles a third time.
+W gets +1 Action.
+W draws a Village, a Nobles and a Forum.
+W plays a King's Court.
+W gets +1 Action.
+W plays a King's Court.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W draws 3 Forums.
+W plays a Nobles again.
+W gets +1 Action.
+W shuffles their deck.
+W draws 2 Platina and a Forum.
+W plays a Nobles a third time.
+W gets +1 Action.
+W draws 2 Golds.
+W plays a King's Court again.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W plays a Nobles again.
+W gets +1 Action.
+W plays a Nobles a third time.
+W gets +1 Action.
+W gets +2 Actions.
+W plays a King's Court a third time.
+W gets +1 Action.
+W plays a Village.
+W gets +1 Action.
+W gets +2 Actions.
+W plays a Village again.
+W gets +1 Action.
+W gets +2 Actions.
+W plays a Village a third time.
+W gets +1 Action.
+W gets +2 Actions.
+W plays a Silver, 3 Platina and 2 Golds. (+$23)
+W buys and gains 2 Colonies.
+W shuffles their deck.
+W draws a Silver, 2 Golds and 2 Forums.
+
+Turn 13 - jkb
+j plays a Forum.
+j gets +1 Action.
+j draws 3 cards.
+j gets +1 Action.
+j discards a card and a Goat.
+j plays a King's Court.
+j gets +1 Action.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles again.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles a third time.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Village.
+j gets +1 Action.
+j draws a card.
+j gets +2 Actions.
+j plays a Storeroom.
+j gets +1 Action.
+j gets +1 Buy.
+j discards 5 other cards and a Hero.
+j shuffles their deck.
+j draws 6 cards.
+j discards 4 other cards and a Platinum.
+j gets +$5.
+j plays a King's Court.
+j gets +1 Action.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles again.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles a third time.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Nobles.
+j gets +1 Action.
+j shuffles their deck.
+j draws 3 cards.
+j plays a Nobles.
+j gets +1 Action.
+j draws 3 cards.
+j plays a Village.
+j gets +1 Action.
+j draws a card.
+j gets +2 Actions.
+j plays a Hero.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Hero.
+j gets +1 Action.
+j gets +$2.
+j gains a Platinum.
+j plays a Storeroom.
+j gets +1 Action.
+j gets +1 Buy.
+j discards 3 other cards and a Copper.
+j shuffles their deck.
+j draws 4 cards.
+j discards a Colony.
+j gets +$1.
+j plays 4 Silvers and 7 Platina. (+$43)
+j plays a Goat. (+$1)
+j trashes a Copper.
+j buys a Forum.
+j gets +1 Buy.
+j gains a Forum.
+j buys a Forum.
+j gets +1 Buy.
+j gains a Forum.
+j buys and gains 3 Colonies.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 14 - William123
+W plays a Forum.
+W gets +1 Action.
+W draws a Nobles, a Platinum and a Goat.
+W gets +1 Action.
+W discards a Silver and a Goat.
+W plays a Forum.
+W gets +1 Action.
+W draws a King's Court, a Storeroom and a Forum.
+W gets +1 Action.
+W discards 2 Golds.
+W plays a Forum.
+W gets +1 Action.
+W draws a Colony and 2 Forums.
+W gets +1 Action.
+W discards a Colony and a Platinum.
+W plays a Forum.
+W gets +1 Action.
+W draws a King's Court, a Platinum and a Forum.
+W gets +1 Action.
+W discards a Platinum and a Forum.
+W plays a King's Court.
+W gets +1 Action.
+W plays a King's Court.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W draws a Village, a Nobles and a Platinum.
+W plays a Nobles again.
+W gets +1 Action.
+W draws a Colony, a King's Court and a Forum.
+W plays a Nobles a third time.
+W gets +1 Action.
+W shuffles their deck.
+W draws a Silver, a Gold and a Nobles.
+W plays a King's Court again.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W draws a Colony, a Platinum and a Forum.
+W plays a Nobles again.
+W gets +1 Action.
+W draws a Gold, a Platinum and a Goat.
+W plays a Nobles a third time.
+W gets +1 Action.
+W plays a King's Court a third time.
+W gets +1 Action.
+W plays a Storeroom.
+W gets +1 Action.
+W gets +1 Buy.
+W discards a Silver, 2 Golds, 2 Colonies, 3 Platina, 3 Forums and a Goat.
+W gets +$12.
+W plays a Storeroom again.
+W gets +1 Action.
+W gets +1 Buy.
+W plays a Storeroom a third time.
+W gets +1 Action.
+W gets +1 Buy.
+W plays a King's Court.
+W gets +1 Action.
+W plays a Nobles.
+W gets +1 Action.
+W shuffles their deck.
+W draws a Gold, a Platinum and a Goat.
+W plays a Nobles again.
+W gets +1 Action.
+W draws a Silver, a Colony and a Platinum.
+W plays a Nobles a third time.
+W gets +1 Action.
+W draws a Gold and 2 Forums.
+W plays a Village.
+W gets +1 Action.
+W draws a Platinum.
+W gets +2 Actions.
+W plays a Forum.
+W gets +1 Action.
+W draws a Colony and a Forum.
+W gets +1 Action.
+W discards 2 Colonies.
+W plays a Goat. (+$1)
+W trashes a Silver.
+W plays 3 Platina and 2 Golds. (+$21)
+W buys and gains 2 Colonies.
+W buys and gains a Nobles.
+W shuffles their deck.
+W draws a Colony, 2 King's Courts, a Forum and a Goat.

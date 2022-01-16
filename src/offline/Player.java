@@ -66,7 +66,7 @@ public class Player {
         if (this == o) return true;
         if (!(o instanceof Player)) return false;
         Player player = (Player) o;
-        return name == player.name;
+        return name.equals(player.name);
     }
 
     @Override
